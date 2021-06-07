@@ -1,0 +1,8 @@
+
+
+General Background : #F0F2F5
+White background :  #ffffff
+Dark background : #E4E6EB
+Blue background : #1877F2
+
+dark bg: #cfd0d1
